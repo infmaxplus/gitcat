@@ -3,7 +3,7 @@
  <img alt="gitcat" src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg">
 
 https://pump.fun/24hHaxPLbZXBZQwGis2bqkpCNE2qb83VoVzm7T7Wpump
-
+https://dexscreener.com/solana/hpzupwapeic4ttsviyj4xmnddgqvthyqrq1rqshyy5nt
 
 ```javascript
 // ༼ つ ◕_◕ ༽つ PUMP Gitcat Chat
