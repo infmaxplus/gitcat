@@ -11,7 +11,7 @@ gitcat on pump.fun
 import { pump,sol } from "@instantdb/solana";
 
 const db = init({ 
-  ca: soon,
+  ca: 24hHaxPLbZXBZQwGis2bqkpCNE2qb83VoVzm7T7Wpump,
 });
 
 function Chat() {
