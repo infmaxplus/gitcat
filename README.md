@@ -1,2 +1,3 @@
 # gitcat
-gitcat on pump
+gitcat on pump.fun
+CA:SOON
