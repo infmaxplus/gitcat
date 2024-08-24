@@ -1,5 +1,6 @@
 # gitcat 🐱
 gitcat on pump.fun
+ <img alt="gitcat" src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg">
 
 https://pump.fun/24hHaxPLbZXBZQwGis2bqkpCNE2qb83VoVzm7T7Wpump
 
